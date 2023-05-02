@@ -4,6 +4,9 @@
 # Step 1 - 
 Create each table and upload the corresponding csv files in the correct order. 
 
+![QuickDBD-export](https://user-images.githubusercontent.com/126448181/235802859-e9e913d2-0dfc-45e1-b954-6ad67a48591d.png)
+
+
 # Deliverable 1 
 "List the employee number, last name, first name, sex, and salary of each employee."
 
